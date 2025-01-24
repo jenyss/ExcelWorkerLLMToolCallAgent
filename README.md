@@ -11,9 +11,9 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * Type-safe state management with AgentState TypedDict
 
 **Main Tools**
-load_preview_data: Excel structure analysis and metadata extraction
-complex_duckdb_query: SQL operations with DuckDB connection
-simple_dataframe_query: Pandas operations with safe eval environment
+* load_preview_data: Excel structure analysis and metadata extraction
+* complex_duckdb_query: SQL operations with DuckDB connection
+* simple_dataframe_query: Pandas operations with safe eval environment
 
 **Key Features**
 * **State Management:**
