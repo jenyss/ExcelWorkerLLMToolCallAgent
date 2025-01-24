@@ -1,4 +1,4 @@
-# Excel Worker LLM Tool Call AI Agent
+# Excel Worker LLM Tool Call AI Agent using LangGraph
 
 This Agent enabling analysis of Excel files using free-form queries as user input.
 
