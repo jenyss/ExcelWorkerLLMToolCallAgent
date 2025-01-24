@@ -22,31 +22,26 @@ simple_dataframe_query: Pandas operations with safe eval environment
   * Thread-safe checkpointing
   * Error propagation and recovery
 
+* **Tool Orchestration:**
+  * Dynamic tool selection by LLM
+  * Parallel tool execution capability
+  * Safety limits: max 3 calls per tool
+  * Automatic tool argument injection
+  * Tool result validation
 
-Tool Orchestration:
+* **Data Processing:**
+  * Excel file structure analysis
+  * SQL query execution via DuckDB
+  * Pandas operations in a safe environment
+  * Null/NaN value handling
+  * Data type preservation
 
-Dynamic tool selection by LLM
-Parallel tool execution capability
-Safety limits: max 3 calls per tool
-Automatic tool argument injection
-Tool result validation
+* **Control Flow:**
+  * Two-stage validation pipeline
+  * Max 7 iterations per query
+  * Conditional edge routing
+  * State-based decision making
 
-
-Data Processing:
-
-Excel file structure analysis
-SQL query execution via DuckDB
-Pandas operations in safe environment
-Null/NaN value handling
-Data type preservation
-
-
-Control Flow:
-
-Two-stage validation pipeline
-Max 7 iterations per query
-Conditional edge routing
-State-based decision making
 
 ## Intallation
 
