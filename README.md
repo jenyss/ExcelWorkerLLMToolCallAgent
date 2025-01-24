@@ -16,11 +16,11 @@ complex_duckdb_query: SQL operations with DuckDB connection
 simple_dataframe_query: Pandas operations with safe eval environment
 
 **Key Features**
-* State Management:
-** Tracks query execution, validation states
-Manages conversation history
-Thread-safe checkpointing
-Error propagation and recovery
+* **State Management:**
+  * Tracks query execution, validation states
+  * Manages conversation history
+  * Thread-safe checkpointing
+  * Error propagation and recovery
 
 
 Tool Orchestration:
