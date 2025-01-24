@@ -1,4 +1,4 @@
-# ExcelWorkerLLMToolCallAgent
+# Excel Worker LLM Tool Call AI Agent
 
 This Agent enabling analysis of Excel files using free-form queries as user input.
 
