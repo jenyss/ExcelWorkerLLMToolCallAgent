@@ -1,4 +1,4 @@
-# Excel Worker AI Agent based LangGraph (tool calling) 
+# Excel Worker AI Agent (LangGraph with tool calling)
 
 This Agent enabling analysis of Excel files using free-form queries as user input.
 
